@@ -1,5 +1,3 @@
-# 🚀 Project README
-
 ## 🎯 Aim
 
 The main aim of this project is to understand, implement, and analyze the given problems using **programming logic and structured code**. The project focuses on applying theoretical concepts in a practical, code-oriented manner to strengthen problem‑solving skills and algorithmic thinking.
