@@ -76,7 +76,18 @@ Various built-in functions and methods such as len(), type(), update(), pop(), v
     Update the price of a product using update().
     Display the updated product list.
 
-*Program 10: Login Authentication Using Dictionary*
+*program 10: Getting Student marks from their name*
+
+     Start
+     Create a dictionary marks with student names as keys and their marks as values.
+     Ask the user to enter the name of the student.
+     Store the entered name in a variable name.
+     Search for name in the dictionary using the get() method:
+          -If the name exists, retrieve and display the corresponding marks.
+          -If the name does not exist, display the message "Student not found in database".
+     Stop
+
+*Program 11: Login Authentication Using Dictionary*
 
      Start the program.
      Create a dictionary of usernames and passwords.
@@ -84,7 +95,7 @@ Various built-in functions and methods such as len(), type(), update(), pop(), v
      Compare input with stored values using get().
      Display login success or failure message.
 
-*Program 11: Finding Topper Using Dictionary*
+*Program 12: Finding Topper Using Dictionary*
 
     Start the program.
     Create a dictionary containing student names and marks.
