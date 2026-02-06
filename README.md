@@ -1,3 +1,6 @@
+NAME: Dhruv Patil
+PRN: 25070123146
+
 #**EXPERIMENT 5 : Study of Dictionary in Python**
 
 ##*AIM*: **To study the dictionary data type in Python and perform basic operations such as creation, accessing values, updating and removing elements, handling duplicate keys, and solving real-life problems using dictionaries.**
