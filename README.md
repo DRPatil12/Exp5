@@ -1,113 +1,93 @@
-## 🎯 Aim
+#**EXPERIMENT 5 : Study of Dictionary in Python**
 
-# Study of dictionary in Python.
+##*AIM*: **To study the dictionary data type in Python and perform basic operations such as creation, accessing values, updating and removing elements, handling duplicate keys, and solving real-life problems using dictionaries.**
 
----
+*THEORY*:
+A dictionary in Python is a built-in data type used to store data in the form of key–value pairs. Each key in a dictionary is unique and is used to access its corresponding value. Dictionaries are unordered, mutable, and indexed by keys instead of positions. Dictionaries are created using curly braces {}, with keys and values separated by a colon (:). Keys can be of immutable data types such as strings, numbers, or tuples, while values can be of any data type. If duplicate keys are used, Python stores only the latest value for that key.
 
-## 🧰 Functions Used
+Various built-in functions and methods such as len(), type(), update(), pop(), values(), and get() are used to manipulate dictionary elements. Dictionaries are widely used in real-world applications like storing student records, product details, login systems, and data analysis.
 
-The following types of functions are commonly used throughout the project:
+*ALGORITHM*:
 
-* 🔹 **Input Functions** – To accept user or system input
-* 🔹 **Processing Functions** – To perform calculations and logical operations
-* 🔹 **Conditional Functions** – `if`, `if‑else`, `switch` for decision making
-* 🔹 **Looping Functions** – `for`, `while`, `do‑while` for repetition
-* 🔹 **User‑Defined Functions** – To improve modularity and readability
-* 🔹 **Built‑in Functions** – Language‑specific utility functions
+*Program 1: Creation and display of Dictionary*
 
----
+     Start the program.
+     Create a dictionary using key–value pairs.
+     Store it in a variable.
+     Display the dictionary using print().
 
-## 📘 Theory:
+*Program 2: Accessing a Value Using Key*
 
-This project is designed to provide an in‑depth understanding of how **programming concepts are applied step‑by‑step in actual code**. The theory section explains how each part of the program works internally and how logical thinking is translated into executable statements. Every problem is solved by carefully analyzing the requirements and implementing them using structured programming techniques.
+     Start the program.
+     Create a dictionary.
+     Access a value using its key inside square brackets.
+     Display the retrieved value.
 
-### 🔹 Variables and Data Types
+*Program 3: Handling Duplicate Keys*
 
-Variables act as storage locations in memory where data values are saved during program execution. Appropriate data types are selected based on the nature of the input and output. Correct use of variables ensures accurate calculations and smooth data handling throughout the program.
+    Start the program.
+    Create a dictionary with duplicate keys.
+    Assign different values to the same key.
+    Print the dictionary.
+    Observe that the latest value replaces the old one.
 
-### 🔹 Input and Output Operations
+*Program 4: Finding Length of Dictionary*
 
-Input statements are used to receive data from the user or predefined sources. Output statements display the processed results in a clear and readable format. These operations form the foundation of program interaction and help verify whether the logic is functioning correctly.
+    Start the program.
+    Create a dictionary.
+    Use the len() function to count key–value pairs.
+    Display the result.
 
-### 🔹 Conditional Statements (Decision Making)
+*Program 5: Finding Type of Dictionary*
 
-Conditional statements such as `if`, `if‑else`, and nested conditions are used to control the flow of execution. Based on given conditions, the program decides which block of code should be executed. This allows the program to handle multiple cases efficiently and ensures logical correctness.
+    Start the program.
+    Create a dictionary.
+    Use the type() function.
+    Display the result.
 
-### 🔹 Looping Constructs (Iteration)
+*Program 6: Adding or Updating Elements in Dictionary*
 
-Loops such as `for`, `while`, and `do‑while` are used to repeat a set of instructions until a specific condition is met. Looping reduces redundancy, improves efficiency, and makes the code more organized. Proper initialization, condition checking, and updating are essential to avoid infinite loops.
+    Start the program.
+    Create a dictionary.
+    Use the update() method to add or modify key–value pairs.
+    Display the updated dictionary.
 
-### 🔹 Functions
-Functions are used to divide the program into smaller, manageable sections. User‑defined functions improve code readability, reusability, and debugging. Each function performs a specific task and returns control to the main program after execution.
+*Program 7: Retrieving Values from Dictionary*
 
-### 🔹 Algorithmic and Logical Flow
+    Start the program.
+    Create a dictionary with student details.
+    Access a specific value using its key.
+    Display the value.
 
-Before writing the code, a clear algorithm is defined for each problem. The algorithm outlines the logical steps required to solve the problem. This logical flow is then converted into code statements, ensuring systematic execution and minimizing errors.
+*Program 8: Removing an Element from Dictionary*
 
-### 🔹 Code Execution Process
+    Start the program.
+    Create a dictionary.
+    Use the pop() method to remove a key–value pair.
+    Display the updated dictionary.
 
-1. The program begins execution from the main function.
-2. Required variables are declared and initialized.
-3. Input values are accepted.
-4. Logical conditions, loops, and functions are applied as per the algorithm.
-5. Final results are displayed using output statements.
-6. Program execution terminates successfully.
+*Program 9: Updating Product Details*
 
----
+    Start the program.
+    Create a dictionary containing product names and prices.
+    Update the price of a product using update().
+    Display the updated product list.
 
-## 🧩 Algorithms:
+*Program 10: Login Authentication Using Dictionary*
 
-### 🔹 Problem 1
+     Start the program.
+     Create a dictionary of usernames and passwords.
+     Accept username and password from the user.
+     Compare input with stored values using get().
+     Display login success or failure message.
 
-1. Start the program
-2. Declare required variables
-3. Accept input values
-4. Apply the required logic/conditions
-5. Display the output
-6. End the program
+*Program 11: Finding Topper Using Dictionary*
 
----
+    Start the program.
+    Create a dictionary containing student names and marks.
+    Use max() with key=dictionary.get to find highest marks.
+    Display the topper’s name and marks.
 
-### 🔹 Problem 2
+*CONCLUSION:*
 
-1. Start
-2. Initialize variables
-3. Use loops/functions as required
-4. Perform calculations or operations
-5. Print the result
-6. Stop
-
----
-
-### 🔹 Problem 3
-
-1. Begin execution
-2. Take necessary inputs
-3. Process data using conditions and loops
-4. Call user‑defined functions if needed
-5. Output the final result
-6. Terminate program
-
----
-
-### 🔹 Problem 4
-
-1. Start the program
-2. Declare and initialize required variables
-3. Accept necessary input values
-4. Apply logical conditions and computations as per the problem statement
-5. Use loops or user‑defined functions if required
-6. Generate and display the output
-7. End the program
-
----
-
-## ✅ Conclusion
-
-This project successfully demonstrates the **practical application of programming concepts** through well‑structured code and clear algorithms. By implementing each problem step‑by‑step, we gain:
-
-*  Better understanding of logic building
-*  Improved problem‑solving skills
-*  Hands‑on experience with functions and algorithms
-
----
+Thus, the experiment successfully demonstrated the use of Python dictionaries for storing and managing data in key–value format. Operations such as accessing, updating, deleting values, and solving real-life problems like authentication systems and result analysis were performed. This experiment helps in understanding efficient data handling and practical applications of dictionaries in Python programming.
