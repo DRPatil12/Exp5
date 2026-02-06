@@ -1,3 +1,6 @@
+Nmae: Dhruv Patil
+PRN: 2507023146
+
 ## 🎯 Aim
 
 The main aim of this project is to understand, implement, and analyze the given problems using **programming logic and structured code**. The project focuses on applying theoretical concepts in a practical, code-oriented manner to strengthen problem‑solving skills and algorithmic thinking.
@@ -17,31 +20,31 @@ The following types of functions are commonly used throughout the project:
 
 ---
 
-## 📘 Theory:
+## 📘 Theory
 
-This project emphasizes the **practical implementation of programming fundamentals** by translating theoretical concepts directly into working code. The theory behind each problem is grounded in core programming principles that are essential for building efficient and readable programs.
+This project focuses on the **effective application of programming fundamentals** by converting theoretical concepts into executable code. The theory behind each problem is based on essential programming principles that help in developing logical, efficient, and well‑structured programs.
 
 ### 🔹 Core Concepts Covered
 
-* **Variables and Data Types**: Used to store and manipulate data efficiently based on problem requirements.
-* **Input and Output Operations**: Enable interaction between the user and the program, forming the basis of dynamic execution.
-* **Conditional Statements**: Decision‑making constructs (`if`, `if‑else`, `nested conditions`) control the logical flow of the program.
-* **Looping Constructs**: Repetition mechanisms (`for`, `while`, `do‑while`) are used to optimize code and reduce redundancy.
-* **Functions and Modularity**: User‑defined functions help divide the program into manageable blocks, improving reusability and clarity.
-* **Algorithmic Logic**: Each solution follows a predefined algorithm to ensure correctness and systematic execution.
+* **Variables and Data Types**: Used to store, manage, and manipulate data according to the needs of each problem.
+* **Input and Output Operations**: Allow smooth interaction between the user and the program, making execution dynamic.
+* **Conditional Statements**: Decision‑making constructs (`if`, `if‑else`, `nested conditions`) guide the program flow based on given conditions.
+* **Looping Constructs**: Iterative statements (`for`, `while`, `do‑while`) help in reducing code repetition and improving efficiency.
+* **Functions and Modularity**: Breaking the program into user‑defined functions improves readability, reusability, and maintenance.
+* **Algorithmic Logic**: Each problem is solved using a predefined algorithm to ensure systematic and error‑free execution.
 
 ### 🔹 Code‑Wise Working
 
-* Programs follow a **top‑down approach**, starting from input handling to final output generation.
-* Logical steps are implemented sequentially to maintain clarity.
-* Error‑free execution is ensured by proper initialization and condition checking.
-* Theoretical logic is validated through practical outputs.
+* Programs follow a **logical and sequential approach** from input acquisition to output display.
+* Each step is clearly implemented to maintain simplicity and clarity.
+* Proper initialization and condition checking help avoid runtime errors.
+* The correctness of theoretical logic is verified through obtained results.
 
-Overall, the theory bridges the gap between **conceptual understanding and real‑world coding**, enabling effective problem solving through structured programming.
+Overall, this theory strengthens the connection between **conceptual knowledge and practical coding**, promoting a clear understanding of structured programming.
 
 ---
 
-## 🧩 Algorithms:
+## 🧩 Algorithms
 
 ### 🔹 Problem 1
 
