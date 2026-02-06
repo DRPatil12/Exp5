@@ -1,28 +1,25 @@
 Nmae: Dhruv Patil
-PRN: 2507023146
+PRN: 25070123146
 
-## 🎯 Aim
+## 🎯 Aim:
 
-The main aim of this project is to understand, implement, and analyze the given problems using **programming logic and structured code**. The project focuses on applying theoretical concepts in a practical, code-oriented manner to strengthen problem‑solving skills and algorithmic thinking.
-
+# Study of dictionary in Python.
+ 
 ---
 
-## 🧰 Functions Used
+## 🧰 Functions Used:
 
 The following types of functions are commonly used throughout the project:
 
 * 🔹 **Input Functions** – To accept user or system input
 * 🔹 **Processing Functions** – To perform calculations and logical operations
 * 🔹 **Conditional Functions** – `if`, `if‑else`, `switch` for decision making
-* 🔹 **Looping Functions** – `for`, `while`, `do‑while` for repetition
 * 🔹 **User‑Defined Functions** – To improve modularity and readability
 * 🔹 **Built‑in Functions** – Language‑specific utility functions
 
 ---
 
-## 📘 Theory
-
-This project focuses on the **effective application of programming fundamentals** by converting theoretical concepts into executable code. The theory behind each problem is based on essential programming principles that help in developing logical, efficient, and well‑structured programs.
+## 📘 Theory:
 
 ### 🔹 Core Concepts Covered
 
@@ -44,7 +41,7 @@ Overall, this theory strengthens the connection between **conceptual knowledge a
 
 ---
 
-## 🧩 Algorithms
+## 🧩 Algorithms:
 
 ### 🔹 Problem 1
 
@@ -61,7 +58,7 @@ Overall, this theory strengthens the connection between **conceptual knowledge a
 
 1. Start
 2. Initialize variables
-3. Use loops/functions as required
+3. Use functions as required
 4. Perform calculations or operations
 5. Print the result
 6. Stop
@@ -95,10 +92,8 @@ Overall, this theory strengthens the connection between **conceptual knowledge a
 
 This project successfully demonstrates the **practical application of programming concepts** through well‑structured code and clear algorithms. By implementing each problem step‑by‑step, we gain:
 
-* 💡 Better understanding of logic building
-* 🧠 Improved problem‑solving skills
-* 🛠 Hands‑on experience with functions and algorithms
-
-Overall, the project serves as a strong foundation for mastering **code‑wise thinking and algorithm design**. 🌟
+*  Better understanding of logic building
+*  Improved problem‑solving skills
+*  Hands‑on experience with functions and algorithms
 
 ---
